@@ -87,5 +87,4 @@ with
 		order by item_code asc, zone_code asc,"order" asc
 	)
 select * from price_info
-where	
-	"区域" = '亚太-首尔'
+
