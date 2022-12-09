@@ -1,3 +1,4 @@
+-- 导出所有产品计费项
 with
 	item_zone_info as (
 		select
